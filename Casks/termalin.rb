@@ -7,8 +7,8 @@
 # URLs; the build is signed with Developer ID and notarized.
 
 cask "termalin" do
-  version "0.1.43"
-  sha256 "b7afc5a40791901458b738e4a6ac39c4b6000686b347b2ecce388711731e242e"
+  version "0.1.44"
+  sha256 "1f93c383dae8f210432d6728b1ca443a85aa6647e8e136a211795238e9c78185"
 
   url "https://termal.in/download/Termalin-#{version}-macos.dmg",
       verified: "termal.in/download/"
